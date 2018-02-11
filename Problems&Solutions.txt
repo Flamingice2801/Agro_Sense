@@ -1,0 +1,12 @@
+We are tackling with basically 2 major problems related to agriculture in rural areas.
+Problem 1 The Wraith of Middlemen ie to eliminate their their  role in selling of yield to consumers.
+
+Solution : We aim to develop an app that provides the farmers a base to sell and deliver the yield at their own set price at the doorstep of the customers. The payment option will only consist of Cash on Delivery just in order to insure that the customer is satisfied with the goods delivered. Apart from this, the app would use technologies like Artificial Intelligence, Cloud Machine Learning, Satellite Imagery in order to provide the farmers with Sowing Advisories(because correct Sowing Advisories lead to 30 % increase in the yield), Live Mandi Prices, Live Mandi News , Weather Updates et cetera.
+
+Problem 2:when the distance between the field and the farmer is huge and the farmer has to travel day in and day out.
+Solution : A Voice Automated System installed at the home of the famer and in the field of the farmer which in turn opens/closes the tube well valve for irrigation. A small LCD Display installed along with this Voice Automation System provides statistics of the field in a very easy to understand manner which would be multi-lingual.
+
+Problem 3: lack of processing machines and skills
+we Kodikas Kataigida with our ignited minds have the courage to bring this change in the life of people at rural areas by providing them with employment and taking forward MAKE IN INDIA by providing link between rural youth and government of India to make insure that we don't have to export and let our currency flow out of our economy. 
+Moving towards a better future 
+We the youth take the responsibility to ensure bright future of our COUNTRY  INDIA ???? 
